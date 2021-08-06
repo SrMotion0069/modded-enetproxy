@@ -1,9 +1,7 @@
-# Growtopia enet proxy edited by silvestras#6969
+# Growtopia enet proxy edited by silvestras#6969 (NO SOURCE FOR NOW)
 Growtopia enet proxy that allows modification and viewing of packets, and creation of new ones.
 ## How to use
 * Does not need separate http server
-
-* Build with Release x64
 
 * Start proxy -> auto patch hosts -> Works as supposed
 
